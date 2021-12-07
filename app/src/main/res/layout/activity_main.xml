@@ -77,7 +77,7 @@
         android:layout_height="wrap_content"
         android:textStyle="bold"
         android:textColor="#1B1B1B"
-        android:text="Цигляний" />
+        android:text="Цегляний" />
     <CheckBox
         android:id="@+id/checkBoxThree"
         android:layout_marginLeft="20dp"
@@ -129,7 +129,7 @@
         android:backgroundTint="#000000"
         android:textColor="#FFFFFF"
         android:layout_gravity="center_vertical|center_horizontal"
-        android:text="Збудовати" />
+        android:text="Згенерувати" />
 
 </LinearLayout>
 </ScrollView>

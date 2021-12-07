@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
             result="еко";
         }
         else if (onCheckTwo(view)){
-            result="цигляний";
+            result="цегляний";
         }
         else{
             result="газобетонний";
